@@ -17,6 +17,7 @@ namespace App05MonoGame
     /// </summary>
     /// <authors>
     /// Derek Peacock & Andrei Cruceru
+    /// testing
     /// </authors>
     public class App05Game : Game
     {
