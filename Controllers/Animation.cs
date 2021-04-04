@@ -2,6 +2,7 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
+// test
 namespace App05MonoGame.Controllers
 {
     /// <summary>
