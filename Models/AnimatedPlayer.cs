@@ -46,7 +46,7 @@ namespace App05MonoGame.Models
             if (CanWalk) Walk();
 
             base.Update(gameTime);
-        }
+        } testc
 
         /// <summary>
         /// Switch between the four walk animations depending
