@@ -12,7 +12,7 @@ namespace App05MonoGame.Controllers
         {
             InputKeys = new InputKeys()
             {
-                // For directions
+                // For directions test
 
                 Up = Keys.Up,
                 Down = Keys.Down,
